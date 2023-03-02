@@ -1,3 +1,12 @@
+import {
+  Footer,
+  Loader,
+  Navbar,
+  Services,
+  Transactions,
+  Welcome,
+} from "./components";
+
 const App = () => {
   return (
     <div className="App">
