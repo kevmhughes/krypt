@@ -5,6 +5,7 @@ import { BsInfoCircle } from "react-icons/bs";
 
 import { TransactionContext } from "../context/TransactionContext";
 import { Loader } from "./";
+import { shortenAddress } from "../utils/shortenAccountNumber";
 
 const commonStyles =
   "min-h-[70px] sm:px-0 px-2 sm:min-w-[120px] flex justify-center items-center border-[0.5px] border-gray-400 text-sm font-light text-white";
@@ -56,7 +57,7 @@ const Welcome = () => {
             <button
               type="button"
               onClick={connectWallet}
-              className="flex flex-row justify-center items-center my-5 bg-[#2952e3] p-3 rounded-full cursor-pointer hover:bg-[#2546bd]"
+              className="w-full flex flex-row justify-center items-center my-5 bg-[#2952e3] p-3 rounded-full cursor-pointer hover:bg-[#2546bd]"
             >
               <p className="text-white text-base font-semibold">
                 Connect wallet
@@ -66,10 +67,18 @@ const Welcome = () => {
 
           <div className="grid sm:grid-cols-3 grid-cols-2 w-full mt-10">
             <div className={`rounded-tl-2xl ${commonStyles}`}>Reliability</div>
-            <div className={commonStyles}>Security</div>
-            <div className={`rounded-tr-2xl ${commonStyles}`}>Ethereum</div>
-            <div className={`rounded-bl-2xl ${commonStyles}`}>Web 3.0</div>
-            <div className={commonStyles}>Low fees</div>
+            <div className={`rounded-tr-2xl sm:rounded-none ${commonStyles}`}>
+              Security
+            </div>
+            <div className={`rounded-none sm:rounded-tr-2xl ${commonStyles}`}>
+              Ethereum
+            </div>
+            <div className={`rounded-none sm:rounded-bl-2xl ${commonStyles}`}>
+              Web 3.0
+            </div>
+            <div className={`rounded-bl-2xl sm:rounded-none ${commonStyles}`}>
+              Low fees
+            </div>
             <div className={`rounded-br-2xl ${commonStyles}`}>Blockchain</div>
           </div>
         </div>
@@ -85,7 +94,7 @@ const Welcome = () => {
               </div>
               <div>
                 <p className="text-white font-light text-sm">
-                  Address: 0xygluyulflug....fdsgdgsae
+                  {shortenAddress(currentAccount)}
                 </p>
                 <p className="text-white font-semibold text-lg mt-1">
                   Ethereum
