@@ -1,7 +1,5 @@
 # Krypt 
 
-Use the app [here](https://krypt-transfer-app.netlify.app/)
-
 #### Krypt is a Web 3.0 blockchain app built using React, Vite, Solidity, and Tailwind.
 
 
@@ -15,6 +13,8 @@ Written on the **Ethereum Virtual Machine (EVM)** network using the **SOLIDITY**
 **Krypt** is a Web 3.0 blockchain app designed to send and receive Ethereum cryptocurrency built with React, Solidity, Tailwind and Vite. It is necessary to pair your **MetaMask** crypto wallet with the app in order to send and receive **Ethereum**. 
 
 # Take a Look at the App
+
+Use the app [here](https://krypt-transfer-app.netlify.app/)
 
 ## Desktop:
 
