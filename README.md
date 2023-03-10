@@ -38,8 +38,8 @@ Written on the **Ethereum Virtual Machine (EVM)** network using the **Solidity**
 ### Development Environment
 * Node.js
 
-### Blockchain Testing
-Goerli
+### Blockchain Testing (Ethereum faucet)
+* Goerli
 
 ### Libraries & Frameworks
 * React 
