@@ -9,11 +9,10 @@ Take a look at the app [here](https://krypt-transfer-app.netlify.app/)
 The UI was built using **React**, **Vite** and **Tailwind**.
 
 ## Smart Contract:
-Written on the **Ethereum** networl using the **SOLIDITY** programming language.
+Written on the **Ethereum Virtual Machine (EVM)** network using the **SOLIDITY** programming language.
 
 # Description
-**Krypt** is a Web 3.0 blockchain app to send and receive Ethereum cryptocurrency built with React, Solidity, Tailwind and Vite. It is necessary to pair your **MetaMask** crypto wallet with the app to send and receive **Ethereum**. 
-It is also possible to send a message 
+**Krypt** is a Web 3.0 blockchain app designed to send and receive Ethereum cryptocurrency built with React, Solidity, Tailwind and Vite. It is necessary to pair your **MetaMask** crypto wallet with the app in order to send and receive **Ethereum**. 
 
 Take a look at a screenshot of the dashboard here:
 
@@ -27,39 +26,29 @@ Take a look at a screenshot of the dashboard here:
 ### Development Environment
 * Node.js
 
+### Blockchain Testing
+Goerli
+
 ### Libraries & Frameworks
 * React 
-* Mongoose
-* Express 
-
-### Database
-* MongoDB
-
-### Hosting Backend
-* Render
+* Vite
+* Tailwind 
 
 ### Hosting Frontend
 * Netlify
 
-### Image Hosting
-Cloudinary
-
 ### Other
-* TypeScript
-* Refine
-* MUI
-* ApexCharts
+* Solidity
+* Alchemy
+* Giphy Developer
 
 # Features
 
 ### Users are able to:
 
-* create an account.
-* add, edit and delete properties.
-* see all the properties in the database.
-* sort all the properties by price, type or name.
-* get detailed information on a single property.
-* see all the agents in the database.
-* get detailed information on a single agent.
+* pair their MetaMask crypto wallet with Krypt
+* send and receive Ethereum
+* send a message and GIF along with the timestamped transaction
+* see all previous transactions
 
 </body>
