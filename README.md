@@ -21,6 +21,8 @@ Take a look at the app on a desktop here:
 </kbd>
 
 
+
+
 Take a look at the app on a mobile device here:
 
 <kbd>
