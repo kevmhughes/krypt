@@ -14,7 +14,9 @@ Written on the **Ethereum Virtual Machine (EVM)** network using the **SOLIDITY**
 # Description
 **Krypt** is a Web 3.0 blockchain app designed to send and receive Ethereum cryptocurrency built with React, Solidity, Tailwind and Vite. It is necessary to pair your **MetaMask** crypto wallet with the app in order to send and receive **Ethereum**. 
 
-Take a look at the app on a desktop here:
+# Take a Look at the App
+
+## Desktop:
 
 <kbd>
 <img src="readme-images/krypt.png" />
@@ -23,7 +25,7 @@ Take a look at the app on a desktop here:
 
 
 
-Take a look at the app on a mobile device here:
+## Mobile:
 
 <kbd>
 <img src="readme-images/krypt.gif" width="250"/>
