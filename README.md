@@ -2,7 +2,7 @@
 
 #### Krypt is a Web 3.0 blockchain app built using React, Vite, Solidity, and Tailwind.
 
-Use the app [here](https://krypt-transfer-app.netlify.app/)
+Use the app [here](https://krypt-transfers.netlify.app/)
 
 
 ## Client Side:
