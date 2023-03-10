@@ -20,6 +20,7 @@ Take a look at the app on a desktop here:
 <img src="readme_images/krypt.png"/>
 </kbd>
 
+
 Take a look at the app on a mobile device here:
 
 <kbd>
