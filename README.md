@@ -17,7 +17,7 @@ Written on the **Ethereum Virtual Machine (EVM)** network using the **SOLIDITY**
 Take a look at the app on a mobile device here:
 
 <kbd>
-<img src="readme-images/krypt.gif" height="450"/>
+<img src="readme-images/krypt.gif" width="250"/>
 </kbd>
 
 # Tools Used
