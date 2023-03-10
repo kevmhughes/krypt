@@ -20,11 +20,6 @@ Take a look at the app here:
 <img src="readme-images/krypt.gif" height="450"/>
 </kbd>
 
-<kbd>
-<img src="imgs_readme/yariga.png"/>
-</kbd>
-
-
 # Tools Used
 
 ### Development Environment
