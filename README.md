@@ -3,6 +3,9 @@
 #### Krypt is a Web 3.0 blockchain app built using React, Vite, Solidity, and Tailwind.
 
 Use the app [here](https://krypt-transfers.netlify.app/)
+To use the app you must:
+1) create a MetaMask account
+2) connect with your MetaMask wallet
 
 
 ## Client Side:
