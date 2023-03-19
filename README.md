@@ -62,7 +62,7 @@ Written on the **Ethereum Virtual Machine (EVM)** network using the **Solidity**
 
 ### Users are able to:
 
-* pair their MetaMask crypto wallet with Krypt
+* pair a MetaMask crypto wallet with Krypt
 * send and receive Ethereum
 * send a message and GIF along with the timestamped transaction
 * see all previous transactions
