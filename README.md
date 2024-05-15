@@ -5,7 +5,7 @@
 ## Use the app [here](https://krypt-transfers.netlify.app/)
 
 To use the app you must:
-1) create a MetaMask account
+1) create a MetaMask account [here](https://metamask.io)
 2) connect with your MetaMask wallet
 
 
