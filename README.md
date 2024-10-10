@@ -4,9 +4,9 @@
 
 ## To use the app you must:
 
-1) go to the app [here](https://krypt-transfers.netlify.app/)
+1) go to the app [<a href="https://krypt-transfers.netlify.app/" target="_blank" rel="noopener noreferrer">here</a>]
 2) create a MetaMask account [here](https://metamask.io)
-3) connect with your MetaMask wallet
+4) connect with your MetaMask wallet
 
 ## Client Side:
 The UI was built using **React**, **Vite** and **Tailwind**.
