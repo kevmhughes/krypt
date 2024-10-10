@@ -4,7 +4,7 @@
 
 ## To use the app you must:
 
-1) go to the app [<a href="https://krypt-transfers.netlify.app/" target="_blank" rel="noopener noreferrer">here</a>]
+1) go to the app <a href="https://krypt-transfers.netlify.app/" target="_blank" rel="noopener noreferrer">here</a>
 2) create a MetaMask account [here](https://metamask.io)
 4) connect with your MetaMask wallet
 
